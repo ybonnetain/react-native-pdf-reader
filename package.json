@@ -1,0 +1,34 @@
+{
+  "name": "react-native-pdf-reader",
+  "version": "1.0.2",
+  "description": "RN component to embed a local PDF",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ybonnetain/react-native-pdf-reader.git"
+  },
+  "main": "index.js",
+  "files": [
+    "ios",
+    "android",
+    "index.js",
+    "README.md"
+  ],
+  "nativePackage": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react-native",
+    "pdf",
+    "reader",
+    "viewer"
+  ],
+  "author": "Yann Bonnetain <yann.bonnetain@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "prop-types": "^15.6.2"
+  },
+  "peerDependencies": {
+    "react-native": "^0.59.8"
+  }
+}
