@@ -55,7 +55,8 @@ import RNPdfReader from 'react-native-pdf-reader';
 
 ## Available Props
 
-prop      | type                 | default value
-----------|----------------------|---------------
-`src`     | `string`             | -
-`style`   | `object`             | -
+prop              | type                 | default value
+------------------|----------------------|---------------
+`src`             | `string`             | -
+`srcLastPage`     | `string`             | - (intended to render the last pdf's page)
+`style`           | `object`             | -
