@@ -1,9 +1,13 @@
 
 # react-native-pdf-reader
 
-RN component to embed a local PDF
+RN component to render a local PDF from a file URI
 
 ## Getting started
+
+From react-native 0.61+ it will auto linked using podspec file
+
+Else, for previous versions
 
 `$ npm install react-native-pdf-reader --save`
 
