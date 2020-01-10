@@ -11,6 +11,8 @@ RN component to render a local PDF from a file URI
 
 From RN 0.61+ it is linked automatically
 
+TODO: for automatic installation, podspec should be in project root
+
 Else, for previous versions ..
 
 `$ react-native link react-native-pdf-reader`
